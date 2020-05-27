@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://changzw.github.io/2017/08/30/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8-RunLoop/</loc>
+    
+    <lastmod>2020-05-27T01:57:49.683Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://changzw.github.io/2017/08/27/deep%20analyse/RunLoop%E5%88%86%E6%9E%90/</loc>
+    
+    <lastmod>2020-05-27T01:56:37.383Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://changzw.github.io/2019/08/19/URL-Loading-System/</loc>
     
     <lastmod>2020-05-20T07:28:52.914Z</lastmod>
@@ -12,20 +26,6 @@
     <loc>https://changzw.github.io/2019/08/23/source-code/AlamoFire-%E5%88%86%E6%9E%90/</loc>
     
     <lastmod>2020-05-20T03:01:51.578Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://changzw.github.io/2020/05/10/flutter-%E5%AD%A6%E4%B9%A002/</loc>
-    
-    <lastmod>2020-05-19T14:48:43.777Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://changzw.github.io/2020/05/10/flutter-%E5%AD%A6%E4%B9%A001/</loc>
-    
-    <lastmod>2020-05-19T14:48:40.425Z</lastmod>
     
   </url>
   
@@ -184,13 +184,6 @@
   </url>
   
   <url>
-    <loc>https://changzw.github.io/2020/03/03/source-code/KeyboardKit-%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90/</loc>
-    
-    <lastmod>2020-04-25T02:51:15.733Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://changzw.github.io/2017/06/01/source-code/Masonry-%E5%88%86%E6%9E%90/</loc>
     
     <lastmod>2020-04-25T02:50:56.862Z</lastmod>
@@ -201,13 +194,6 @@
     <loc>https://changzw.github.io/2017/04/06/RxSwfit+RAC/RAC-%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B001/</loc>
     
     <lastmod>2020-04-25T02:49:23.867Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://changzw.github.io/2017/08/27/deep%20analyse/RunLoop%E5%88%86%E6%9E%90/</loc>
-    
-    <lastmod>2020-04-25T02:49:06.799Z</lastmod>
     
   </url>
   
@@ -292,13 +278,6 @@
     <loc>https://changzw.github.io/2018/03/12/%E5%A6%82%E4%BD%95%E7%BB%99%E8%87%AA%E5%B7%B1%E7%9A%84%E5%BA%93%E6%B7%BB%E5%8A%A0%E5%89%8D%E7%BC%80/</loc>
     
     <lastmod>2020-04-25T02:34:02.431Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://changzw.github.io/2017/08/30/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8-RunLoop/</loc>
-    
-    <lastmod>2020-04-25T02:33:39.640Z</lastmod>
     
   </url>
   
@@ -436,14 +415,14 @@
   </url>
   
   <url>
-    <loc>https://changzw.github.io/books/index.html</loc>
+    <loc>https://changzw.github.io/categories/index.html</loc>
     
     <lastmod>2019-12-26T08:16:51.762Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://changzw.github.io/categories/index.html</loc>
+    <loc>https://changzw.github.io/books/index.html</loc>
     
     <lastmod>2019-12-26T08:16:51.762Z</lastmod>
     
