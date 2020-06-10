@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://changzw.github.io/2019/01/12/load%E5%92%8Cinitialize/</loc>
+    <loc>https://changzw.github.io/2020/04/10/source-code/SnapKit-%E5%88%86%E6%9E%90/</loc>
     <lastmod>2020-06-10</lastmod>
   </url>  <url>
-    <loc>https://changzw.github.io/2019/04/10/source-code/SnapKit-%E5%88%86%E6%9E%90/</loc>
+    <loc>https://changzw.github.io/2018/03/03/%E5%A6%82%E4%BD%95%E8%AF%BB%E4%BB%A3%E7%A0%81%E5%86%99%E4%BB%A3%E7%A0%81/</loc>
+    <lastmod>2020-06-10</lastmod>
+  </url>  <url>
+    <loc>https://changzw.github.io/2019/01/12/load%E5%92%8Cinitialize/</loc>
     <lastmod>2020-06-10</lastmod>
   </url>  <url>
     <loc>https://changzw.github.io/2018/06/01/weak-%E5%AE%9E%E7%8E%B0%E5%88%86%E6%9E%90/</loc>
@@ -158,9 +161,6 @@
     <lastmod>2020-04-25</lastmod>
   </url>  <url>
     <loc>https://changzw.github.io/2018/03/15/English/%E8%8B%B1%E8%AF%AD%E8%AF%AD%E6%B3%95%E5%AD%A6%E4%B9%A0/</loc>
-    <lastmod>2020-04-25</lastmod>
-  </url>  <url>
-    <loc>https://changzw.github.io/2019/03/03/%E5%A6%82%E4%BD%95%E8%AF%BB%E4%BB%A3%E7%A0%81%E5%86%99%E4%BB%A3%E7%A0%81/</loc>
     <lastmod>2020-04-25</lastmod>
   </url>  <url>
     <loc>https://changzw.github.io/2018/02/06/RxSwfit+RAC/RxSwift-%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</loc>
