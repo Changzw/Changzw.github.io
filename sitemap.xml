@@ -2,6 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://changzw.github.io/2018/12/25/thread/%E4%BB%8EGCD-%E5%88%B0-Operation/</loc>
+    
+    <lastmod>2020-08-05T03:38:41.441Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://changzw.github.io/2018/12/21/thread/GCD-%E5%8E%9F%E7%90%86-API-%E5%88%86%E6%9E%90/</loc>
+    
+    <lastmod>2020-08-05T03:28:24.977Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://changzw.github.io/2017/08/14/SDWebImage-%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90/</loc>
+    
+    <lastmod>2020-07-01T03:07:56.292Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://changzw.github.io/2017/07/01/iOS-app-%E6%B2%99%E7%9B%92%E7%9B%AE%E5%BD%95%E7%BB%93%E6%9E%84/</loc>
+    
+    <lastmod>2020-07-01T02:42:46.136Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://changzw.github.io/2017/03/03/%E5%A6%82%E4%BD%95%E8%AF%BB%E4%BB%A3%E7%A0%81%E5%86%99%E4%BB%A3%E7%A0%81/</loc>
     
     <lastmod>2020-06-30T01:55:31.735Z</lastmod>
@@ -9,37 +37,9 @@
   </url>
   
   <url>
-    <loc>https://changzw.github.io/2018/03/28/SDWebImage-%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90/</loc>
-    
-    <lastmod>2020-06-28T02:49:48.503Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://changzw.github.io/2017/08/14/SDWebImage-%E5%88%86%E6%9E%90/</loc>
-    
-    <lastmod>2020-06-15T02:04:31.224Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://changzw.github.io/2018/12/21/GCD-%E5%8E%9F%E7%90%86-API-%E5%88%86%E6%9E%90/</loc>
-    
-    <lastmod>2020-06-13T10:02:48.038Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://changzw.github.io/2018/07/10/%E8%A7%A3%E5%86%B3%E8%B5%84%E6%BA%90%E7%AB%9E%E4%BA%89%E7%9A%84%E6%96%B9%E6%B3%95%EF%BC%8C%E6%8E%A7%E5%88%B6%E7%BA%BF%E7%A8%8B%E5%90%8C%E6%AD%A5/</loc>
+    <loc>https://changzw.github.io/2018/07/10/thread/%E8%A7%A3%E5%86%B3%E8%B5%84%E6%BA%90%E7%AB%9E%E4%BA%89%E7%9A%84%E6%96%B9%E6%B3%95%EF%BC%8C%E6%8E%A7%E5%88%B6%E7%BA%BF%E7%A8%8B%E5%90%8C%E6%AD%A5/</loc>
     
     <lastmod>2020-06-13T07:12:53.705Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://changzw.github.io/2018/12/25/%E4%BB%8EGCD-%E5%88%B0-Operation/</loc>
-    
-    <lastmod>2020-06-13T06:19:03.422Z</lastmod>
     
   </url>
   
@@ -457,7 +457,7 @@
   </url>
   
   <url>
-    <loc>https://changzw.github.io/2017/03/09/%E8%BF%9B%E7%A8%8B-%E7%BA%BF%E7%A8%8B%E9%97%B4%E9%80%9A%E4%BF%A1/</loc>
+    <loc>https://changzw.github.io/2017/03/09/thread/%E8%BF%9B%E7%A8%8B-%E7%BA%BF%E7%A8%8B%E9%97%B4%E9%80%9A%E4%BF%A1/</loc>
     
     <lastmod>2020-04-25T02:30:57.472Z</lastmod>
     
@@ -555,14 +555,14 @@
   </url>
   
   <url>
-    <loc>https://changzw.github.io/about/index.html</loc>
+    <loc>https://changzw.github.io/categories/index.html</loc>
     
     <lastmod>2019-12-26T08:16:51.762Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://changzw.github.io/categories/index.html</loc>
+    <loc>https://changzw.github.io/books/index.html</loc>
     
     <lastmod>2019-12-26T08:16:51.762Z</lastmod>
     
@@ -576,7 +576,7 @@
   </url>
   
   <url>
-    <loc>https://changzw.github.io/books/index.html</loc>
+    <loc>https://changzw.github.io/about/index.html</loc>
     
     <lastmod>2019-12-26T08:16:51.762Z</lastmod>
     
